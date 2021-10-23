@@ -1,0 +1,3 @@
+wheel
+transformers[torch]==4.10.2
+aws-lambda-powertools
