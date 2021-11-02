@@ -4,7 +4,7 @@ This repo contains [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/
 
 For full details on how this works:
 
-- Read the Compute Blog
+- [Read the AWS Compute Blog](https://aws.amazon.com/blogs/compute/choosing-between-storage-mechanisms-for-ml-inferencing-with-aws-lambda/)
 
 **Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the [AWS Pricing page](https://aws.amazon.com/pricing/) for details. You are responsible for any AWS costs incurred. No warranty is implied in these examples.**
 
@@ -157,7 +157,7 @@ The model files are not included in the ./ml-images/s3/nlp-models/nlp1 directory
 
 ## How it works
 
-For full details on how this works:
+For full details on how this works: [Read the AWS Compute Blog](https://aws.amazon.com/blogs/compute/choosing-between-storage-mechanisms-for-ml-inferencing-with-aws-lambda/)
 
 - Read the Compute Blog post
 
