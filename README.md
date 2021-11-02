@@ -159,7 +159,7 @@ The model files are not included in the ./ml-images/s3/nlp-models/nlp1 directory
 
 For full details on how this works:
 
-- Read the Compute Blog post at: https://aws.amazon.com/blogs/compute/TBD
+- Read the Compute Blog post
 
 ## Testing
 
