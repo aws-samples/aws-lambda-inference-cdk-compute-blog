@@ -15,7 +15,6 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
-#!/usr/bin/env node
 import * as cdk from 'aws-cdk-lib';
 import { MlOciStack } from '../lib/ml-oci-stack';
 import { MlS3Stack } from '../lib/ml-s3-stack';
